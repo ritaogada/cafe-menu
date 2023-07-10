@@ -31,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-![coffee-menu-screenshot](image.png)
+![Cafe-menu-screenshot](image.png)
 
 ![](./screenshot.jpg)
 
