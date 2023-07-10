@@ -42,20 +42,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML
 - CSS 
 
-### What I learned
+### What I've learned
 
 I've learned a new way of organizing code to enhance flow and understanding as you write code. 
-One way that has really stood out for me is the targeting the type and class selectors in CSS before creating them in the HTML file.  
-
-I've also learned how to organize code to make it easy to understand the flow, both in HTML and CSS.
+One way that has really stood out is the targeting of the type and class selectors in CSS before creating them in HTML.  
 
 ### Continued development
 
-I still need to practice more of the padding, and margin properties in formatting the div elements on a site. 
+I still need more practice on padding and margin properties while formatting div elements. 
 
 ### Useful resources
 
-- [MDN Docs](https://developer.mozilla.org/) really came in handy when I'd forgotten some elements in coding. 
+- [MDN Docs](https://developer.mozilla.org/) came in handy when I'd forgotten some elements in coding. 
 - [Dr Angela Yu's Course](https://www.udemy.com/share/101qYw3@L4fp6FHQmfBr0zjbW1itoREIN9o6QYb6Ls7Mg6qwfXJxqYdP3wiPAbz_ClZh2CDquA==/) has been an amazing foundational resource that has helped me understand what I code. 
 - [The Free code camp](https://www.freecodecamp.org/) has been the best resource for thousands of practice projects. This very Cafe Menu being one of them! I'd highly recommend it for every beginner developer. It provides a well-structured and beginner-friendly, easy roadmap for coding.  
 
